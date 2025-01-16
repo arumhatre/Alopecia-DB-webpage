@@ -193,10 +193,8 @@ a:focus{
 .alopecia_div_new.video_testmonilas_section #testimonilas_slider .owl-prev{left:-5px; background-color: transparent !important;}
 .alopecia_div_new.video_testmonilas_section #testimonilas_slider .owl-next{right:-5px; background-color: transparent !important;}
 }
-
-
 /*==========================================*/
-/* Before After Slider css*/
+/* Before After Images Slider css*/
 /*==========================================*/
 .alopecia_div_new.before_after_slider{padding-top:40px}
 .alopecia_div_new.before_after_slider .screenshot_slider .owl-dots{display:none}
@@ -208,159 +206,18 @@ a:focus{
 @media(max-width:768px){
 .alopecia_div_new.before_after_slider{padding-top:30px}
 }
-
 @media(max-width:600px){
 .alopecia_div_new.before_after_slider{padding-top:30px}
 .alopecia_div_new.before_after_slider .screenshot_slider .owl-prev{left:-5px; background-color: transparent !important;}
 .alopecia_div_new.before_after_slider .screenshot_slider .owl-next{right:-5px; background-color: transparent !important;}
 }
-
-
-/*==========================================*/
-/* Before After Slider css*/
-/*==========================================*/
-.alopecia_div_new.myth_fact_section{padding-top:40px}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-dots{display:none}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-item img{width:auto;
-    border-radius: 50%;}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-next,
-.alopecia_div_new .myth_fact_slider .owl-prev{position:absolute;top:-5px;height:100%}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-prev{left:-15px; background-color: transparent !important;}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-next{right:-15px; background-color: transparent !important;}
-@media(max-width:768px){
-.alopecia_div_new.myth_fact_section{padding-top:30px}
-}
-@media(max-width:600px){
-.alopecia_div_new.myth_fact_section{padding-top:30px}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-prev{left:-5px; background-color: transparent !important;}
-.alopecia_div_new.myth_fact_section.myth_fact_slider .owl-next{right:-5px; background-color: transparent !important;}
-.alopecia_div_new.myth_fact_section .myth_fact_slider .owl-item img{width:50px; height: 50px; margin: -25px auto; }
-}
-
-
-.Myth_and_fact_section_box{
-    height: 230px;
-    display: inline-flex;
-    background: linear-gradient(90deg, rgba(246,247,251,1) 50%, rgba(224,243,255,1) 50%);
-     border-radius: 10px;
-   
-}
-
-.myth_box_css{
-    width: 50%;
-    padding: 10px;
-    background-color: #f6f7fb;
-
-}
-
-.Fact_box_sec{
-    width: 50%;
-    padding: 10px;
-    background-color: #e0f3ff;
-
-}
-
-.Myth_and_fact_section_box p{
-    font-size: 16px;
-}
-
-.vs_icon {
-    width: 56px;
-    height: 56px;
-    align-self: center;
-}
-
-.myth_box_css h5, .Fact_box_sec h5{
-    font-size: 24px;
-    font-weight: 600;
-    margin-bottom: 5px;
-}
-
-@media(max-width:600px){
-
-    .Myth_and_fact_section_box{
-    height: 270px;
-    display: block;
-    align-items:center;
-    background: linear-gradient(0deg, rgba(246,247,251,1) 50%, rgba(224,243,255,1) 50%);
-    border-radius: 10px;
-}
-
-.myth_box_css{
-    width: 100%;
-    height: 50%;
-    padding: 20px;
-    background-color: transparent;
-
-}
-
-.Fact_box_sec{
-    width: 100%;
-    height: 50%;
-    padding: 20px;
-    background-color: transparent;
-
-}
-
-
-
-
-
-}
-
-
-
-/*==========================================*/
-/* Root Causes section css*/
-/*==========================================*/
-.PCOS_div_new.understand_pcos_section{margin-top:50px}
-.understand_pcos_section .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#f6f7fb;border-radius:6px}
-.understand_pcos_section h5{font-size:24px;color:#000;line-height:normal;font-weight:600}
-.understand_pcos_section .icon_box_why p{line-height:normal;font-size:18px;font-weight:300;line-height:normal;margin-bottom:0}
-.understand_pcos_section .content_box_why_pcos{display:inline-flex;align-items:center}
-@media (max-width:1680px){
-.understand_pcos_section .icon_box_why p{font-size:16px}
-}
-@media (max-width:600px){
-.PCOS_div_new.understand_pcos_section{margin-top:30px}
-.PCOS_div_new.understand_pcos_section .container{padding:0 15px}
-.understand_pcos_section .icon_box_why p{width:85%}
-.understand_pcos_section h5{font-size:18px;color:#000;line-height:normal;font-weight:600}
-}
-
-
-/*==========================================*/
-/* Writing testmonilas css*/
-/*==========================================*/
-
-.PCOS_div_new.pcos_text_testmonilas{margin-top:50px}
-.PCOS_div_new .pcos-rating-box{height:380px;padding:30px 10px;background-color:#e0f3ff;border-radius:20px;background-image:url(../images/banner-left-top.webp),url(../images/banner-right-bottom.webp);background-repeat:no-repeat;background-position:top 5px left 5px,bottom 5px right 5px;background-size:auto!important}
-.PCOS_div_new .pcos-rating-cls-para{padding-top:5px;font-size:18px;color:#000}
-.PCOS_div_new .pcos-ourrating-subheading{font-size:20px;font-weight:600;margin-bottom:0;padding-bottom:0}
-.PCOS_div_new .pcos-ourrating-subheading small{font-weight:600;font-size:14px}
-.PCOS_div_new .owl-dots{display:block;text-align:center}
-.PCOS_div_new .owl-dot{display:inline-block;margin:10px 5px 0}
-.PCOS_div_new .owl-dot span{width:12px;height:12px;background-color:#9c9c9c;display:block;border-radius:50%;transition:background-color .3s ease}
-.PCOS_div_new .owl-dot.active span{background-color:#2196f3;border:2px solid #fff;outline:2px solid #2196f3}
-@media(max-width:600px){
-.PCOS_div_new.pcos_text_testmonilas{margin-top:30px}
-.PCOS_div_new .pcos-rating-box{height:340px}
-.PCOS_div_new .pcos-ourrating-subheading{font-size:18px}
-.PCOS_div_new .pcos-rating-cls-para{padding-top:5px;font-size:16px;color:#000}
-}
-
-
 /*==========================================*/
 /* did you know css*/
 /*==========================================*/
-
-.PCOS_div_new.did_u_know_section_pcos{margin-top:50px;padding:40px 0 50px;background-color:#e0f3ff}
+.alopecia_div_new.did_u_know_section_pcos{margin-top:50px;padding:40px 0 50px;background-color:#e0f3ff}
 @media(max-width:600px){
-.PCOS_div_new.did_u_know_section_pcos{margin-top:30px;padding:30px 0}
+.alopecia_div_new.did_u_know_section_pcos{margin-top:30px;padding:30px 0}
 }
-
-
-
 /*==========================================*/
 /* Form Form css*/
 /*==========================================*/
@@ -387,8 +244,6 @@ a:focus{
 .alopecia_div_new .form_custom_heading_testmonilas span{font-weight:600;color:#187fc3}
 .alopecia_div_new .btn_custom_testmonilas{font-size:16px}
 }
-
-
 /*==========================================*/
 /* Form Form css*/
 /*==========================================*/
@@ -399,8 +254,6 @@ a:focus{
 @media screen and (max-width:600px){
 .alopecia_div_new.pcos_teartment_section{padding-top:30px}
 }
-
-
 /*==========================================*/
 /* Doctor Information css*/
 /*==========================================*/
@@ -419,7 +272,6 @@ a:focus{
 .PCOS_div_new .doctor_section_head p{font-size:18px}
 .PCOS_div_new .doctor_section_head p span{font-size:14px}
 }
-
 /*==========================================*/
 /* FAQ css*/
 /*==========================================*/
@@ -437,8 +289,6 @@ a:focus{
 .alopecia_div_new.faq_accordation_section{margin-top:30px;margin-bottom:30px}
 .alopecia_div_new.faq_accordation_section .accordion__header{padding:15px 25px;font-weight:600;cursor:pointer;position:relative;font-size:16px}
 }
-
-
 /*==========================================*/
 /* Refrence css*/
 /*==========================================*/
@@ -450,74 +300,21 @@ a:focus{
 @media screen and (max-width:600px){
 .com_div_new.new_common_ref{margin-top:30px; margin-bottom: 25px;}
 }
-
-
-
-
-
-
 /*==========================================*/
 /* Alopecia Plan section css*/
 /*==========================================*/
-.alopecia_div_new.alopecia_plan_section{
-   margin-top: 40px;
-}
-
-
-.alopecia_div_new.alopecia_plan_section .dot-list-sym {
-    padding-left: 0;
-}
-
-.alopecia_div_new.alopecia_plan_section img{
-    border-radius: 20px;
-}
-
-.alopecia_div_new.alopecia_plan_section .dot-list-sym li {
-    padding: 12px 20px;
-    font-size: 18px;
-    font-weight: 300;
-    color: #000;
-    border: 1px solid #cdcdcd;
-    margin-top: 10px;
-    border-radius: 8px;
-    list-style: none;
-    line-height: 20px;
-}
-
-
-
-
-.alopecia_div_new.alopecia_plan_section .dot-list-sym li strong{
-   font-size: 24px;
-   font-weight: 600;
-   line-height: 40px;
-}
-
-.alopecia_div_new.alopecia_plan_section .dot-list-sym li::before {
-    content: url('../images/dot.webp');
-    display: inline-block;
-    width: 25px;
-    font-size: 25px;
-    margin-left: -29px;
-}
-
+.alopecia_div_new.alopecia_plan_section{margin-top:40px}
+.alopecia_div_new.alopecia_plan_section .dot-list-sym{padding-left:0}
+.alopecia_div_new.alopecia_plan_section img{border-radius:20px}
+.alopecia_div_new.alopecia_plan_section .dot-list-sym li{padding:12px 20px;font-size:18px;font-weight:300;color:#000;border:1px solid #cdcdcd;margin-top:10px;border-radius:8px;list-style:none;line-height:20px}
+.alopecia_div_new.alopecia_plan_section .dot-list-sym li strong{font-size:24px;font-weight:600;line-height:40px}
+.alopecia_div_new.alopecia_plan_section .dot-list-sym li::before{content:url('../images/dot.webp');display:inline-block;width:25px;font-size:25px;margin-left:-29px}
 @media (max-width:1680px){
-    .alopecia_div_new.alopecia_plan_section .dot-list-sym li{
-        font-size: 16px;
-    }
+.alopecia_div_new.alopecia_plan_section .dot-list-sym li{font-size:16px}
 }
-
-
 @media screen and (max-width:600px){
-
-    .alopecia_div_new.alopecia_plan_section{
-           margin-top: 30px;
-        }
-    .alopecia_div_new.alopecia_plan_section .dot-list-sym li strong{
-        font-size: 18px;
-        line-height: 30px;
-    }
+.alopecia_div_new.alopecia_plan_section{margin-top:30px}
+.alopecia_div_new.alopecia_plan_section .dot-list-sym li strong{font-size:18px;line-height:30px}
 }
-
 
 
