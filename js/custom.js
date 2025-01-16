@@ -63,7 +63,7 @@ togglers.forEach((btn) => {
       nav: true,
       margin: 20,
       autoplay: true,
-      autoplayTimeout: 4000,
+      autoplayTimeout: 6000,
       smartSpeed: 400,
       navText: [
         "<img src='images/previmage.webp' alt='001 prev' width='50' height='50' />", 
