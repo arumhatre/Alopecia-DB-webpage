@@ -118,7 +118,7 @@ a:focus{
 .alopecia_div_new.why_section_alopecia .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
 .alopecia_div_new.why_section_alopecia p{width:85%;line-height:normal;font-size:18px;font-weight:300;line-height:normal;margin-bottom:0}
 .alopecia_div_new.why_section_alopecia p span{font-size:24px;font-weight:600}
-.alopecia_div_new.why_section_alopecia .content_box_why_pcos{display:inline-flex;align-items:center}
+.alopecia_div_new.why_section_alopecia .content_box_why_pcos{display:inline-flex;align-items:start}
 @media (max-width:1680px){
 .alopecia_div_new.why_section_alopecia p{font-size:16px}
 }
@@ -152,7 +152,7 @@ a:focus{
 .alopecia_div_new.why_homeopathy_section_Alopecia .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
 .alopecia_div_new.why_homeopathy_section_Alopecia .content_box_why_pcos p{width:85%; line-height:normal;font-size:18px;font-weight:300;line-height:normal;margin-bottom:0}
 .alopecia_div_new.why_homeopathy_section_Alopecia .content_box_why_pcos p span{font-size:24px;font-weight:600}
-.alopecia_div_new.why_homeopathy_section_Alopecia .content_box_why_pcos{display:inline-flex;align-items:center}
+.alopecia_div_new.why_homeopathy_section_Alopecia .content_box_why_pcos{display:inline-flex;align-items:start}
 @media (max-width:1680px){
 .alopecia_div_new.why_homeopathy_section_Alopecia .content_box_why_pcos p, .alopecia_div_new.why_homeopathy_section_Alopecia p{font-size:16px}
 }
