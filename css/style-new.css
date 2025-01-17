@@ -36,7 +36,7 @@ a:focus{
 .alopecia_div_new .treatment_all_heading_page{margin-bottom:8px;font-size:26px;color:#000;font-weight:600}
 }
 @media (max-width:600px){
-.alopecia_div_new .treatment_all_heading_page{margin-bottom:10px;font-size:24px;color:#000;font-weight:600;text-align:left}
+.alopecia_div_new .treatment_all_heading_page{margin-bottom:10px;font-size:22px;color:#000;font-weight:600;text-align:left}
 }
 .view_more_commmon_btn{margin-top:30px;padding:10px 20px;color:#fff;font-size:16px;text-transform:uppercase;font-weight:500;border-radius:30px;line-height:normal;background-color:#1f83c5}
 .view_more_commmon_btn:hover{color:#fff}
@@ -68,15 +68,16 @@ a:focus{
 .alopecia_div_new.banner_new_section img{width:100%;padding:15px}
 }
 @media (max-width:400px){
-.alopecia_div_new.banner_new_section h1{font-size:32px;font-weight:700;line-height:normal;color:#fff;text-align:center}
+.alopecia_div_new.banner_new_section h1{font-size:30px;font-weight:700;line-height:normal;color:#fff;text-align:center}
 .alopecia_div_new .talk_about_btn{width:80%;display:block;text-align:center;margin:15px auto 20px;padding:10px 30px;line-height:normal;color:#0c4679;border-radius:50px;font-weight:600;font-size:16px;text-align:center;border:none;background-color:#fff!important;box-shadow:0 4px 15px rgb(175 173 173 / 18%)}
 .alopecia_div_new.banner_new_section img{width:100%;padding:10px}
 }
 @media (max-width:375px){
+.alopecia_div_new.banner_new_section h1{font-size:26px;font-weight:700;line-height:normal;color:#fff;text-align:center}
 .alopecia_div_new.banner_new_section img{width:100%;padding:10px}
 }
 @media (max-width:360px){
-.alopecia_div_new.banner_new_section h1{font-size:28px;font-weight:700;line-height:normal;color:#fff;text-align:center}
+.alopecia_div_new.banner_new_section h1{font-size:24px;font-weight:700;line-height:normal;color:#fff;text-align:center}
 .alopecia_div_new.banner_new_section h2{font-size:16px;font-weight:400;line-height:normal;color:#fff;text-align:center}
 }
 
